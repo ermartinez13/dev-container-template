@@ -1,0 +1,17 @@
+{
+  "name": ".NET",
+  "name": "Python",
+  "name": "Node",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "patbenatar.advanced-new-file",
+        "ms-dotnettools.csdevkit",
+        "ms-python.autopep8"
+      ]
+    }
+  }
+}

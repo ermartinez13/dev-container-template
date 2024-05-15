@@ -1,0 +1,21 @@
+{
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "search.exclude": {
+    "**/.venv": true,
+    "**/node_modules": true,
+  },
+  "advancedNewFile.exclude": {
+    "**/.venv": true,
+    "**/node_modules": true,
+  }
+}
