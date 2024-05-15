@@ -13,5 +13,8 @@
         "ms-python.autopep8"
       ]
     }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
   }
 }
