@@ -1,3 +1,10 @@
 # .NET 
 bin/
 obj/
+
+# common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+# Python
+__pycache__/
