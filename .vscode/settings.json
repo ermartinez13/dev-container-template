@@ -17,5 +17,10 @@
   "advancedNewFile.exclude": {
     "**/.venv": true,
     "**/node_modules": true,
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
   }
 }
