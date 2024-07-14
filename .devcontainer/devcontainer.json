@@ -18,6 +18,7 @@
     }
   },
   "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers-contrib/features/mkcert:1": {}
   }
 }
