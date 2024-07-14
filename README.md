@@ -4,3 +4,10 @@
 
 `.gitignore` and `.vscode/settings.json` should also be up updated accordingly. 
 
+## Local Certificates
+
+```bash
+# create locally-trusted development certificate
+mkcert -install
+mkcert localhost
+```
